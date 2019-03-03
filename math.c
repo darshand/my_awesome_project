@@ -1,6 +1,6 @@
 #include<stdio.h>
 // This is a sin function
-void add()
+void add(f1, f2)
 {
  	printf("we are calling sin function");
 }
@@ -17,7 +17,7 @@ void mul()
 
 void main()
 {
-add();
+add(f1,f2);
 div();
 mul();
 }
