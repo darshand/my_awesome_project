@@ -9,8 +9,15 @@ void div()
 {
  	printf("we are calling div function");
 }
+
+void mul()
+{
+ 	printf("we are calling mul function");
+}
+
 void main()
 {
 add();
 div();
+mul();
 }
