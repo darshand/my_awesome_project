@@ -16,6 +16,11 @@ void mul()
  	printf("we are calling mul function");
 }
 
+void log() 
+{
+	printf("We are calling log function");
+}
+
 void main()
 {
 add(f1,f2);
