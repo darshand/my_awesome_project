@@ -1,27 +1,16 @@
 #include<stdio.h>
 // This is a sin function
-void sin()
+void add()
 {
  	printf("we are calling sin function");
 }
 
-void cos()
+void div()
 {
- 	printf("we are calling cos function");
+ 	printf("we are calling div function");
 }
-
-void tan()
-{
- 	printf("we are calling tan function");
-}
-
-
-
-
-
 void main()
 {
-sin();
-cos();
-tan();
+add();
+div();
 }
