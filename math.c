@@ -5,7 +5,8 @@ void add(f1, f2)
  	printf("we are calling sin function");
 }
 
-void div(f1,f2)
+
+void div(f1,f2) 
 {
  	printf("we are calling div function");
 }
